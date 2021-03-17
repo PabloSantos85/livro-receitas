@@ -5,3 +5,4 @@ Olá! Bem-vindo(as) ao meu livro de receitas! :wave::wave:
 ### Receitas
 
 - Strogonoff de frango;
+- Pavê;
